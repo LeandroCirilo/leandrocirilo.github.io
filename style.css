@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+        font-family: sans-serif;
+        background-color: aquamarine;
+}
+
+body{
+    background-color: greenyellow;
+}
+.boa-comunicacao{
+    font-size: 30px;
+}
+.em-equipe{
+    font-size: 25px;
+}
+.HTML{
+    font-size: 20px;
+}
+.CSS{
+    font-size: 20px;
+}
